@@ -1,2 +1,2 @@
 # Quote-Helper
-Quotation Genarater
+Quotation Generater
